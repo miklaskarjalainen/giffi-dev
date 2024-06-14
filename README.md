@@ -1,4 +1,4 @@
-Hi, I’m a 20y computer science student from finland.
+Hi, I’m a 21y computer science student from finland.
 
 I've interests in game making, automatisation and working with low level hardware/frameworks.
 I have a working knowledge of GodotEngine, Rust, C++ and C.
