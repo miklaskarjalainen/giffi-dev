@@ -5,8 +5,8 @@ I passionate about programming, and love building software in systems level prog
 
 **The easiest** way to reach me is through Discord: @Giffi.
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=miklaskarjalainen&show_icons=true&theme=dark#gh-dark-mode-only)  
-![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=miklaskarjalainen&show_icons=true&theme=default#gh-light-mode-only)  
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=miklaskarjalainen&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/miklaskarjalainen/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=miklaskarjalainen\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/miklaskarjalainen/github-readme-stats#gh-light-mode-only)
 
 ![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=miklaskarjalainen&hide_progress=false&theme=dark#gh-dark-mode-only)  
 ![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=miklaskarjalainen&hide_progress=false&theme=default#gh-light-mode-only)  
